@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WS</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="description">Description</string>
+    <string name="login">Login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="signup">Create Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
